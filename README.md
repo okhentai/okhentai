@@ -1,7 +1,7 @@
 <div>
 <img src="./images/avatar.png" width="450" align="right" />
 <br/>
-<!-- <img src="./images/" width="500" /> -->
+<img src="./images/aboutus.png" width="500" />
 <br/>
 <br/>
   
