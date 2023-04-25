@@ -1,8 +1,10 @@
 <div>
-<img src="./images/avatar.png" width="350" align="right" />
-<br/>
 <img src="./images/aboutus.png" width="500" />
 <br/>
+<img src="./images/avatar.png" width="350" align="right" />
+<br/>
+
+
 <br/>
   
 - Name --> Okay Impact
