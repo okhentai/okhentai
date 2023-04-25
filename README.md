@@ -1,16 +1,31 @@
-### Hi there 👋
+<div>
+<img src="./images/avatar.png" width="450" align="right" />
+<br/>
+<!-- <img src="./images/" width="500" /> -->
+<br/>
+<br/>
+  
+- Name --> Okay Impact
 
-<!--
-**okhentai/okhentai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Live --> Viet Nam
 
-Here are some ideas to get you started:
+- Role --> Game Developer, 3D Artist
+  
+- Games Mode --> Open World, MMORPG, FPS, MOBA, ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Code Languages --> C++, ...
+
+- Study --> Baria-VungTau University
+
+- Languages -->  English, Japanese, Vietnamese
+<!-- <img src="./images/" width="300" align="right" />
+<br/>
+<img src="./images/" width="500" /> -->
+<br/>
+<br/>
+
+<br/>
+<!-- <img src="./images/" width="500" /><br/> -->
+  
+<sub> *“Gaming is good ya know.” – Okay Impact 2023* </sub>
+</div>
